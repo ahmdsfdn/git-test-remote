@@ -7,5 +7,6 @@
 <body>
     <h1>Judul</h1>
     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rem esse quo reiciendis, eligendi sed velit possimus ipsa fuga vero consequuntur dolore doloribus aliquid dignissimos recusandae ea deleniti optio delectus quod.</p>
+    <footer>Menu</footer>
 </body>
 </html>
